@@ -9,7 +9,7 @@
 
 # memory === RAM not hard disk
 
-                                                  # ----data types-----
+                                      # ----data types-----
                                             # 1-string
 # name="hasan raza"
                                             # 2-number/integar

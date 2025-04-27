@@ -96,21 +96,41 @@
 
 
 
-                                # Grading System Script
+                                  # Grading System Script + Logical Opertaor(and ,or , not)
+   
+        # and  ( True and True)
+# name = 'hasan'
+# age = 19
+# logical_and = age >= 18 and  name == "hasan"
+# print(logical_and)
+        # and  ( True and True)
 
-# percentage = input("Enter Your Percentage :")
-# int_percentage = int(percentage)
 
-# if int_percentage >= 90:
+        # or  ( True or false // false or true)
+# name = 'hasan'
+# age = 10
+# logical_or = age >= 18 or  name == "hasan"
+# print(logical_or)
+        # or  ( True or false // false or true)
+
+
+
+
+# percentage =float(input("Enter Your Percentage :"))
+# # int_percentage = int(percentage)
+
+# if percentage >= 90 and percentage <= 100 :
 #     print("A1")
 #     print("congrats")
-# elif int_percentage >= 70 :
+# elif percentage >= 70 and percentage < 90 :
 #     print("B")
-# elif int_percentage >= 50 :
+# elif percentage >= 50 and percentage < 70 :
 #     print("C")
-# elif int_percentage <= 40 :
+# elif percentage <= 40 and percentage < 50:
 #     print("D")
 # else:
 #     print("You are Failed")
+
+
     
-                                # Grading System Script
+                                # Grading System Script + Logical Opertaor
